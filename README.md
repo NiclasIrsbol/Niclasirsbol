@@ -1,6 +1,6 @@
 # 💫 About Me
 <h2>Hello 👋, I am Niclas Søe Irsbøl</h2>
-I am passionate about learning, and working with software and hardware. I Enjoy building software, that can help solve real-world problems, which people can benefit from, but also software about other things that I am excited about. I am continuously broadening my knowledge, and learning new languages, frameworks and technologies through side-projects and courses at my university.
+I am passionate about learning, and working with software and hardware. I enjoy building software, that can help solve real-world problems, which people can benefit from, but also software about other things that I am excited about. I am continuously broadening my knowledge, and learning new languages, frameworks and technologies through side-projects and courses at my university.
 <br> <br>
 Other than working with software and hardware, I am really passionate about Geography, History and Mathematics.
 
