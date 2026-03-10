@@ -20,5 +20,5 @@ Other than working with software and hardware, I am really passionate about Geog
 # 🌐 Connect with me
 You can reach me at the following links 😊
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niclas-irsb%C3%B8l-099962276/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niclas-s%C3%B8e-irsb%C3%B8l-099962276/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niclasirsbol@gmail.com) 
